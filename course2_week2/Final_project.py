@@ -5,6 +5,8 @@ Created on Thu Jan 16 22:45:44 2020
 
 @author: jasper
 """
+#takes a list of tweets and analyses to determine a value based on positive/negative words
+
 
 punctuation_chars = ["'", '"', ",", ".", "!", ":", ";", '#', '@']
 # list of positive words to use
