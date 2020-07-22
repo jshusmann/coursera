@@ -55,3 +55,6 @@ def get_sorted_recommendations(list):
         new_dict[i] = rating
     print(new_dict)
     #print(sorted(new_dict, reverse=True))
+    
+#call functions in order, with inital input as the name of the movie,
+ 
